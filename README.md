@@ -16,13 +16,13 @@ mongoDB - non-relational database
 
 # INSTALLATION GUIDE:
 
-1.Copy the URL for cloning the project.
+1. Copy the URL for cloning the project.
 
-2.Open terminal and clone the project using the command: ```git clone <copied url>```.
+2. Open terminal and clone the project using the command: ```git clone <copied url>```.
   
-3.Use ```npm install```, to install all the third-party dependencies and modules.
+3. Use ```npm install```, to install all the third-party dependencies and modules.
 
-4.Run the following command to run the project: ```npm start```
+4. Run the following command to run the project: ```npm start```
 
-5.You can find the project running on ```localhost:3000```
+5. You can find the project running on ```localhost:3000```
 
